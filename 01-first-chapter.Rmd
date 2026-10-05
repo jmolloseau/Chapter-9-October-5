@@ -11,4 +11,7 @@ Here is a plot of the built-in cars dataset:
 ```{r}
 plot(cars)
 ```
-/nHere is a plot of the built-in cars dataset:/n/n```{r}/nplot(cars)/n```/n/n```{r}/nlibrary(DBI)/n```/n
+
+```{r}
+library(DBI)
+```
